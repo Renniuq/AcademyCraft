@@ -168,7 +168,7 @@ ac.ability.generic.brain_course.name=Brain Course
 ac.ability.generic.brain_course_advanced.name=Brain Course Advanced
 ac.ability.generic.mind_course.name=Mind Course
 
-ac.ability.generic.brain_course.desc=Get a practice for your brain. Adds Max CP by 1000.
+ac.ability.generic.brain_course.desc=Get some practice for your brain. Adds Max CP by 1000.
 ac.ability.generic.brain_course_advanced.desc=Develop the thinking ability of your brain deeply. Adds Max CP by 1000 and adds Max Overload by 100.
 ac.ability.generic.mind_course.desc=Learn how to relax your brain better. Speed up CP recovery by 20%.
 
@@ -200,7 +200,7 @@ ac.ability.electromaster.iron_sand.desc=Separate and manipulate the iron sand to
 ac.ability.electromaster.charging.desc=Generate electric currents to charge the thing in your hand or electric blocks in the world.
 ac.ability.electromaster.body_intensify.desc=Fine-tune your bioelectricity to improve your physical ability in a short duration.
 ac.ability.electromaster.thunder_clap.desc=Manipulate the magnetic field in the atmosphere to create thunderclouds, and guide the electricity down to cause a devastating lightning.
-ac.ability.electromaster.thunder_bolt.desc=Holds together a enormous amount of electricy and compress them into a highly powerful lance. The huge currents will burst out and hurt everything around.
+ac.ability.electromaster.thunder_bolt.desc=Hold together an enormous amount of electricy and compress it into a highly powerful lance. The huge currents will burst out and hurt everything around.
 
 ## Teleporter
 ac.ability.teleporter.name=Teleporter
@@ -218,7 +218,7 @@ ac.ability.teleporter.flashing.name=Flashing
 
 ac.ability.teleporter.threatening_teleport.desc=Teleport small things to somewhere around you. Sometimes just a small fragment is able to kill an enemy.
 ac.ability.teleporter.dim_folding_theorem.desc=Boost your damage towards enemies by generating a tiny space folding phonemonon.
-ac.ability.teleporter.penetrate_teleport.desc=Derive the obstacle thickness in front of you, and straightly teleport through it.
+ac.ability.teleporter.penetrate_teleport.desc=Derive the obstacle thickness in front of you, and teleport directly through it.
 ac.ability.teleporter.mark_teleport.desc=Mark where your eye is looking at as your destination and teleport to there.
 ac.ability.teleporter.flesh_ripping.desc=Rip apart your enemy’s inside and cause deadly damage. But the over-bloody effect may make you feel uncomfortable. 
 ac.ability.teleporter.location_teleport.desc=Memorize the current location and teleport back from anywhere far away afterwards.
@@ -253,17 +253,17 @@ ac.ability.meltdowner.mine_ray_expert.name=Expert Mining Ray
 ac.ability.meltdowner.mine_ray_luck.name=Luck Mining Ray
 ac.ability.meltdowner.electron_missile.name=Electron Missile
 
-ac.ability.meltdowner.electron_bomb.desc=Make together small amount of electrons to generate a threatening beam. 
+ac.ability.meltdowner.electron_bomb.desc=Collect together a small amount of electrons to generate a threatening beam. 
 ac.ability.meltdowner.rad_intensify.desc=Because of the high-intensity radiation, the target hit by beam is doubly vunlunerable in a few seconds. 
 ac.ability.meltdowner.ray_barrage.desc=Use your high-energy ray with the Silicon Barn to create a ray barrage that destroys everything in front of you. 
-ac.ability.meltdowner.scatter_bomb.desc=Manipulate more than one electronics group to attack. As a result, you can't control the impact point accurately. 
+ac.ability.meltdowner.scatter_bomb.desc=Manipulate more than one electron group to attack. As a result, you can't control the impact point accurately. 
 ac.ability.meltdowner.meltdowner.desc=Extreme high-energy electron beam that melts down walls and metals. 
-ac.ability.meltdowner.light_shield.desc=Turn many electronics into a shield. High-speed moving electronics will destroy all things attack you, and damage all things touch you closely.    
-ac.ability.meltdowner.jet_engine.desc=Use the propulsive force of electrons launch yourself into the air. Will generate a light-shield to protect yourself in the flight. 
-ac.ability.meltdowner.mine_ray_basic.desc=After a long time practice, you can make your electronic stream suitably to collect minerals without destroy them.
-ac.ability.meltdowner.mine_ray_expert.desc=Understanding how to control the intensity of electrons better, You can now harvest mineral resources more efficiently.
-ac.ability.meltdowner.mine_ray_luck.desc=After a long time of practice, you can almost harvest the useful resources in the ore perfectly.
-ac.ability.meltdowner.electron_missile.desc=Hold together a HUGE amount of electron cloud and use a small amount of it to attack each time.
+ac.ability.meltdowner.light_shield.desc=Turn many electrons into a shield. High-speed moving electrons will destroy all things attacking you, and damage all things touching you closely.    
+ac.ability.meltdowner.jet_engine.desc=Use the propulsive force of electrons launch yourself into the air. Will generate a light-shield to protect yourself during the flight. 
+ac.ability.meltdowner.mine_ray_basic.desc=After a lot of practice, you can make your electron stream suitable to collect minerals without destroying them.
+ac.ability.meltdowner.mine_ray_expert.desc=Understanding how to control the intensity of electrons better, you can now harvest mineral resources more efficiently.
+ac.ability.meltdowner.mine_ray_luck.desc=After a lot of of practice, you can almost harvest the useful resources in the ore perfectly.
+ac.ability.meltdowner.electron_missile.desc=Hold together a HUGE amount of electrons in a cloud and use a small amount of it to attack each time.
 
 # Vector Manipulation
 ac.ability.vecmanip.name=Vector Manip
@@ -279,13 +279,13 @@ ac.ability.vecmanip.blood_retro.name=Blood Retrograde
 ac.ability.vecmanip.vec_reflection.name=Vector Reflection
 ac.ability.vecmanip.plasma_cannon.name=Plasma Cannon
 
-ac.ability.vecmanip.dir_shock.desc=Seize the counterforce when punched into object and redirect it onto the object itself, making the punch more powerful.
-ac.ability.vecmanip.ground_shock.desc=Apply a powerful shock on the ground and direct it forward, which breaks the ground and launches enemies into the air.
+ac.ability.vecmanip.dir_shock.desc=Seize the counterforce when punching an object and redirect it onto the object itself, making the punch more powerful.
+ac.ability.vecmanip.ground_shock.desc=Apply a powerful shock to the ground and direct it forward, which breaks the ground and launches enemies into the air.
 ac.ability.vecmanip.vec_accel.desc=Boost jumping force for an instant to accelerate yourself.
 ac.ability.vecmanip.vec_deviation.desc=Cancel the velocity of projectiles flying towards you, and cancels a portion of combat damage.
 ac.ability.vecmanip.dir_blast.desc=Triple the force of punching into the object, making it extremely destructive. Will break blocks on area it hits.
-ac.ability.vecmanip.storm_wing.desc=Manipulate the velocity of air to form four micro-whirlwinds at your back, and fly in high speed using forces they generate.
-ac.ability.vecmanip.blood_retro.desc=Stir the blood flow of organic enemies, making their vessel burst and die in extreme pain.
+ac.ability.vecmanip.storm_wing.desc=Manipulate the velocity of air to form four micro-whirlwinds at your back, and fly at high speed using the forces they generate.
+ac.ability.vecmanip.blood_retro.desc=Stir the blood flow of organic enemies, making their vessels burst and them die in extreme pain.
 ac.ability.vecmanip.vec_reflection.desc=Reflects the dangerous incoming attacks towards your line of sight, and make your opponent bear it.
 ac.ability.vecmanip.plasma_cannon.desc=Manipulate a large area of air flow with extreme precision to form a plasma body. Throw it out to cause a disastrous explosion.
 
@@ -310,9 +310,9 @@ ac.command.knowledge.discover=/knowledge discover [knowledge_name]: Discover a s
 
 ac.command.aim.usage=/aim <command>|<help> [parameters...]
 ac.command.aim.help=/aim help: Display the help message.
-ac.command.aim.cat=/aim cat [catName]: Change the specified player's categories or display the current category.
+ac.command.aim.cat=/aim cat [catName]: Change the specified player's category or display the current category.
 ac.command.aim.catlist=/aim catlist: List all available categories' names.
-ac.command.aim.learn=/aim learn <id>|<skillName>: Learn the specified skill. Regardless of its learning condition requirements.
+ac.command.aim.learn=/aim learn <id>|<skillName>: Learn the specified skill, regardless of its learning condition requirements.
 ac.command.aim.unlearn=/aim unlearn <id>|<skillName>: Unlearn the specified skill.
 ac.command.aim.learn_all=/aim learn_all: Learn all the skills.
 ac.command.aim.reset=/aim reset: Clear your ability information.
@@ -330,7 +330,7 @@ ac.command.aim.noskill=No such skill was found. Use /aim skills to list all skil
 ac.command.aim.learned.format=Learned skills: %s
 ac.command.aim.curexp=Skill %s's current exp: %.0f%%.
 ac.command.aim.notactive=The /aim command is currently inactive. Use /aim cheats_on or /aim cheats_off to change the active state.
-ac.command.aim.warning=§cWARNING: Using /aim command will break the game balance and impact your experience about the mod, PROCEED WITH CAUTION!
+ac.command.aim.warning=§cWARNING: Using /aim command will break game balance and impact your experience of the mod, PROCEED WITH CAUTION!
 ac.command.aim.outofrange=§cInput out of range: §fMust be a value between %s and %s.
 
 # Achievements
@@ -371,17 +371,17 @@ achievement.ac_electromaster.lv4.desc=Burst out your potential of destruction!
 achievement.ac_electromaster.lv5=Railgun Queen
 achievement.ac_electromaster.lv5.desc=Only My Railgun!
 achievement.ac_electromaster.arc_gen=Food Shortage
-achievement.ac_electromaster.arc_gen.desc=Starved. Hmmm, some fish in the water?
+achievement.ac_electromaster.arc_gen.desc=Starved. Hmmm, any fish in the water?
 achievement.ac_electromaster.attack_creeper=Self Destruction
-achievement.ac_electromaster.attack_creeper.desc=It is heard that creeper is vunlunerable to electricity
+achievement.ac_electromaster.attack_creeper.desc=It's heard that creepers are vunlunerable to electricity
 achievement.ac_electromaster.mag_movement=Self-Lifting
-achievement.ac_electromaster.mag_movement.desc=Hey look at me I can fly!
+achievement.ac_electromaster.mag_movement.desc=Hey, look at me, I can fly!
 achievement.ac_electromaster.body_intensify=Bioelectricity Drugster
 achievement.ac_electromaster.body_intensify.desc=It’s better off to give myself some electric shock
 #achievement.ac_electromaster.iron_sand=
 #achievement.ac_electromaster.iron_sand.desc=
 achievement.ac_electromaster.mine_detect=Magnetic Scope
-achievement.ac_electromaster.mine_detect.desc=But...why am I seeing carbons?
+achievement.ac_electromaster.mine_detect.desc=But...why am I seeing carbon?
 achievement.ac_electromaster.thunder_bolt=Lightning Chain
 achievement.ac_electromaster.thunder_bolt.desc=Spare no enemy around
 achievement.ac_electromaster.railgun=Only My Railgun
@@ -393,9 +393,9 @@ ac.achievementpage.cat_meltdowner=Meltdowner
 achievement.ac_meltdowner.lv1=Electron Current
 achievement.ac_meltdowner.lv1.desc=Are you using a water gun or something?
 achievement.ac_meltdowner.lv2=Destructive Beam
-achievement.ac_meltdowner.lv2.desc=Decompose that block at your front
+achievement.ac_meltdowner.lv2.desc=Decompose that block in front of you
 achievement.ac_meltdowner.lv3=Igniting Irradiation
-achievement.ac_meltdowner.lv3.desc=Hyperthermia works well on destroying things
+achievement.ac_meltdowner.lv3.desc=Hyperthermia works well at destroying things
 achievement.ac_meltdowner.lv4=Collapsing Barrage
 achievement.ac_meltdowner.lv4.desc=No matter can survive your beam
 achievement.ac_meltdowner.lv5=Meltdowner
@@ -411,19 +411,19 @@ achievement.ac_meltdowner.mine_ray.desc=Low power mode can be a mining drill
 achievement.ac_meltdowner.jet_engine=Jet Engine
 achievement.ac_meltdowner.jet_engine.desc=Can you stop me?
 achievement.ac_meltdowner.electron_missile=Light of Death
-achievement.ac_meltdowner.electron_missile.desc=See the light? OK, you are burnt out
+achievement.ac_meltdowner.electron_missile.desc=See the light? OK, you're burnt out
 
 ac.achievementpage.cat_teleporter=Teleporter
 achievement.ac_teleporter.lv1=Coordinate Analysis
-achievement.ac_teleporter.lv1.desc=Grasp the basic principle to teleport in the space
+achievement.ac_teleporter.lv1.desc=Grasp the basic principle to teleport in space
 achievement.ac_teleporter.lv2=Dimension Disortion
-achievement.ac_teleporter.lv2.desc=The spacetime is not definete, idiot!
+achievement.ac_teleporter.lv2.desc=Spacetime is not definete, idiot!
 achievement.ac_teleporter.lv3=Space Folding
 achievement.ac_teleporter.lv3.desc=Move freely in the 4th dimension!
 achievement.ac_teleporter.lv4=Super-String Manipulation
-achievement.ac_teleporter.lv4.desc=Look for the basic composition of the space
+achievement.ac_teleporter.lv4.desc=Look for the basic composition of space
 achievement.ac_teleporter.lv5=Touch the Singularity
-achievement.ac_teleporter.lv5.desc=Master the ultimate theorem of the spacetime
+achievement.ac_teleporter.lv5.desc=Master the ultimate theorem of spacetime
 achievement.ac_teleporter.threatening_teleport=Foreign Matter
 achievement.ac_teleporter.threatening_teleport.desc=Don't you feel unwell?
 achievement.ac_teleporter.critical_attack=Fold the Dimension
@@ -431,9 +431,9 @@ achievement.ac_teleporter.critical_attack.desc=How about those attacks?
 achievement.ac_teleporter.ignore_barrier=Ignore Barriers
 achievement.ac_teleporter.ignore_barrier.desc=Nothing can stop a Teleporter
 achievement.ac_teleporter.flashing=Flashing and Flashing
-achievement.ac_teleporter.flashing.desc=While low form beings still move on their foot
+achievement.ac_teleporter.flashing.desc=While low form beings still move on their feet
 achievement.ac_teleporter.mastery=Dimension Traveler
-achievement.ac_teleporter.mastery.desc=Teleporters does travel between dimensions
+achievement.ac_teleporter.mastery.desc=Teleporters can travel between dimensions
 
 # UI Commons
 ac.gui.common.pg_wireless.not_connected=Not Connected
